@@ -1,5 +1,4 @@
 # Apple-Financial-Analysis-2015-2025
-# Apple-Financial-Analysis-2015-2025
 ACC102 Track 2 Assignment
 
 # Student Information
